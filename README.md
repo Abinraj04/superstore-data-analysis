@@ -37,4 +37,6 @@ The dashboard provides a comprehensive view of sales performance across regions,
 * Assists in identifying underperforming areas for improvement
 
 ---
+## Dashboard Preview
 
+![image](dashboard.png)
