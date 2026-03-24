@@ -39,4 +39,4 @@ The dashboard provides a comprehensive view of sales performance across regions,
 ---
 ## Dashboard Preview
 
-![image](Dashboard.png)
+![image](Dashboard.PNG)
